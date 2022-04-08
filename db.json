@@ -1,24 +1,28 @@
 {
   "unit":[
   {
+    "id":1,
     "name": "GPU",
     "location": 1,
     "ip": "254.221.104.179",
     "mac": "ef:69:4f:62:7a:d3"
     },
     {
+    "id":2.
     "name": "GPU",
     "location": 1,
     "ip": "254.221.104.179",
     "mac": "ef:69:4f:62:7a:d3"
     },
     {
+      "id":3,
     "name": "GPU",
     "location": 1,
     "ip": "254.221.104.179",
     "mac": "ef:69:4f:62:7a:d3"
     },
     {
+      "id":4,
     "name": "GPU",
     "location": 1,
     "ip": "254.221.104.179",
